@@ -20,7 +20,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: This unit is offered as an elective to students enrolled prior to 2013.  For commencing students in 2013 onwards it is a core requirement.",
@@ -43,7 +43,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -66,7 +66,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: This unit is offered as an elective to students enrolled prior to 2013.  For commencing students in 2013 onwards it is a core requirement.",
@@ -89,7 +89,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -112,7 +112,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: This unit is offered as an elective to students enrolled prior to 2013.  For commencing students in 2013 onwards it is a core requirement.",
@@ -135,7 +135,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: : Enrolment in or satisfactory completion of all core units of study for the Master of Health Science (Developmental Disability) is required. This unit is not available to Graduate Certificate of Health Science (Developmental Disability) students.",
@@ -159,7 +159,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: NB: Not available to students enrolled in Graduate Certificate (Developmental Disability) course. Enrolment in or satisfactory completion of all core units of study for the Master of Health Science (Developmental Disability) is required. \nAveraged 75 per cent (distinction) or better across all units of study. \nSubject to the availability of appropriate supervision ",
@@ -184,7 +184,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -203,7 +203,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -224,7 +224,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -245,7 +245,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -268,7 +268,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -291,7 +291,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -313,7 +313,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -335,7 +335,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -359,7 +359,7 @@
             "Semester 2 "
         ],
         "textbooks": "Davidson PW, Prasher VP and Janicki MP, Mental Health, intellectual disabilities and the aging process, Blackwell Publishing, Oxford, (2003)",
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: This unit is offered as an elective to students enrolled prior to 2013.  For commencing students in 2013 onwards it is a core requirement.",
@@ -382,7 +382,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -401,7 +401,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1449,7 +1449,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Medical Imaging Science Core Units"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1472,7 +1472,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Medical Imaging Science Core Units"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1497,7 +1497,7 @@
             "Semester 2 "
         ],
         "textbooks": "Handbook of Image Perception and Techniques, E Samei, EA Krupinski (editors), Cambridge University Press 2010.",
-        "year": "Medical Imaging Science Core Units"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1521,7 +1521,7 @@
             "Semester 2 "
         ],
         "textbooks": "Some journal articles are included",
-        "year": "Capstone Units"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1547,7 +1547,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Capstone Units"
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: One of the two main assignments is based on practical exercises via online access to an Earth`s field MR imaging system (Internet access required) ",
@@ -1571,7 +1571,7 @@
             "Semester 1 "
         ],
         "textbooks": "McRobbie, Moore & Graves, MRI from Picture to Proton, United Kingdom: Cambridge University Press (2006). Online content \"Introductory NMR and MRI\" available from http://www.youtube.com/user/magritek.",
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1592,7 +1592,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1615,7 +1615,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1640,7 +1640,7 @@
             "Semester 1 "
         ],
         "textbooks": "On-line and paper based study notes supplied",
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1662,7 +1662,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1685,7 +1685,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1708,7 +1708,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1733,7 +1733,7 @@
             "Semester 2 "
         ],
         "textbooks": "Reference lists provided throughout course material. Some journal articles included",
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1759,7 +1759,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1781,7 +1781,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1802,7 +1802,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1827,7 +1827,7 @@
             "Semester 2 "
         ],
         "textbooks": "On-line and paper based study notes supplied",
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1850,7 +1850,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1876,7 +1876,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Semester 1"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1897,7 +1897,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": "Medical Imaging Science - Research Electives"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -1929,7 +1929,7 @@
             "Semester 2 "
         ],
         "textbooks": "Portney, LG & Watkins, MP / Foundations of Clinical Research: Applications to Practice (3rd ed), /2009/",
-        "year": "Medical Imaging Science - Research Electives"
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: Students must have access to a PC to load and use the statistics packages SAS or SPSS ",
@@ -1956,7 +1956,7 @@
             "Semester 2 "
         ],
         "textbooks": "Various recommended texts on introductory statistics",
-        "year": "Medical Imaging Science - Research Electives"
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -2129,7 +2129,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Industry Stream"
+        "year": "Year 2"
     },
     {
         "additional_info": " Note: Students must have access to a PC to load and use the statistics packages SAS or SPSS ",
@@ -2156,7 +2156,7 @@
             "Semester 2 "
         ],
         "textbooks": "Various recommended texts on introductory statistics",
-        "year": "Industry Stream"
+        "year": "Year 2"
     },
     {
         "assessments": [
@@ -2186,7 +2186,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Research Stream"
+        "year": "Year 2"
     },
     {
         "assessments": [
@@ -2336,7 +2336,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": "Semester 2"
+        "year": "Year 2"
     },
     {
         "assessments": [
@@ -2359,7 +2359,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Semester 2"
+        "year": "Year 3"
     },
     {
         "assessments": [
@@ -2389,7 +2389,7 @@
             "Semester 1",
             "Semester 2 "
         ],
-        "year": "Semester 2"
+        "year": "Year 3"
     },
     {
         "additional_info": " Note: Students must have access to a PC to load and use the statistics packages SAS or SPSS ",
@@ -2416,7 +2416,7 @@
             "Semester 2 "
         ],
         "textbooks": "Various recommended texts on introductory statistics",
-        "year": "Semester 2"
+        "year": "Year 3"
     },
     {
         "assessments": [
@@ -4444,7 +4444,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4471,7 +4471,7 @@
             "Semester 1 "
         ],
         "textbooks": "Strauser, D. (2014). Career development, employment and disability in rehabilitation. From theory to practice. NY: Springer",
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4498,7 +4498,7 @@
         "sessions": [
             "Intensive April "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4523,7 +4523,7 @@
         "sessions": [
             "Semester 1 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4549,7 +4549,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4578,7 +4578,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
@@ -4608,7 +4608,7 @@
         "sessions": [
             "Semester 2 "
         ],
-        "year": null
+        "year": "Year 1"
     },
     {
         "additional_info": " Note: Students will be approved to undertake field placement by obtaining a) criminal record check, b) signing the Prohibited Employment Declaration Child Protection (Prohibited Employment) Act 1998 c) the Health Records and Information Privacy Act, 2004 ",
@@ -4640,7 +4640,7 @@
             "Semester 2 "
         ],
         "textbooks": "Online manual is provided on eLearning site",
-        "year": null
+        "year": "Year 1"
     },
     {
         "assessments": [
