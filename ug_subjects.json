@@ -4,7 +4,7 @@
         "code": "HSBH1006",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Health Science",
         "requirements": [],
         "semester": "Three core BHlthSci Junior units of study:",
@@ -18,7 +18,7 @@
         "code": "HSBH1008",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Determinants and Interventions",
         "requirements": [],
         "semester": "Three core BHlthSci Junior units of study:",
@@ -32,7 +32,7 @@
         "code": "HSBH1009",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Care Resources and Systems",
         "requirements": [],
         "semester": "Three core BHlthSci Junior units of study:",
@@ -46,7 +46,7 @@
         "code": "PSYC1001",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1001",
         "requirements": [],
         "semester": "The core Biology and Psychology units of study:",
@@ -61,7 +61,7 @@
         "code": "PSYC1002",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1002",
         "requirements": [],
         "semester": "The core Biology and Psychology units of study:",
@@ -76,7 +76,7 @@
         "code": "HSBH2007",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research Methods in Health",
         "requirements": [
             {
@@ -99,7 +99,7 @@
         "code": "HSBH3001",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health and Indigenous Populations",
         "requirements": [
             {
@@ -119,7 +119,7 @@
         "code": "HSBH3003",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Service Strategy and Policy",
         "requirements": [
             {
@@ -138,7 +138,7 @@
         "code": "HSBH3004",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health, Ethics and the Law",
         "requirements": [
             {
@@ -161,7 +161,7 @@
         "code": "HSBH3009",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "International Health",
         "requirements": [
             {
@@ -184,7 +184,7 @@
         "code": "HSBH3010",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health and Lifelong Disability",
         "requirements": [
             {
@@ -203,7 +203,7 @@
         "code": "HSBH3011",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Rural Health",
         "requirements": [
             {
@@ -226,7 +226,7 @@
         "code": "HSBH3012",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "FHS Abroad",
         "requirements": [
             {
@@ -246,7 +246,7 @@
         "code": "HSBH3015",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Mental Health Rehabilitation",
         "requirements": [
             {
@@ -273,7 +273,7 @@
         "code": "REHB3064",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Alcohol and Drug Misuse Rehabilitation",
         "requirements": [
             {
@@ -300,7 +300,7 @@
         "code": "BHSC3014",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Writing a Research Proposal",
         "requirements": [
             {
@@ -319,7 +319,7 @@
         "code": "HSBH3005",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Evidence Based Health Care",
         "requirements": [
             {
@@ -338,7 +338,7 @@
         "code": "HSBH3018",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Quantitative Research Methods in Health",
         "requirements": [
             {
@@ -365,7 +365,7 @@
         "code": "HSBH3019",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Qualitative Research Methods in Health",
         "requirements": [
             {
@@ -388,7 +388,7 @@
         "code": "BHSC4005",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis A",
         "requirements": [
             {
@@ -412,7 +412,7 @@
         "code": "BHSC4006",
         "course": "Bachelor of Health Sciences - BPHEASCI2000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis B",
         "requirements": [
             {
@@ -440,7 +440,7 @@
         "code": "BIOL1003",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Biology",
         "requirements": [
             {
@@ -464,7 +464,7 @@
         "code": "HSBH1006",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Health Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -478,7 +478,7 @@
         "code": "HSBH1008",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Determinants and Interventions",
         "requirements": [],
         "semester": "Semester 1",
@@ -492,7 +492,7 @@
         "code": "PSYC1001",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1001",
         "requirements": [],
         "semester": "Semester 1",
@@ -507,7 +507,7 @@
         "code": "PSYC1002",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1002",
         "requirements": [],
         "semester": "Semester 1",
@@ -522,7 +522,7 @@
         "code": "HSBH1009",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Care Resources and Systems",
         "requirements": [],
         "semester": "Semester 2",
@@ -570,7 +570,7 @@
         "code": "HSBH2007",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research Methods in Health",
         "requirements": [
             {
@@ -710,7 +710,7 @@
         "code": "CSCD3090",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Audiology 2",
         "requirements": [
             {
@@ -733,7 +733,7 @@
         "code": "CSCD3091",
         "course": "Bachelor of Health Sciences - Hearing and Speech major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fieldwork",
         "requirements": [
             {
@@ -756,7 +756,7 @@
         "code": "BIOL1003",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Biology",
         "requirements": [
             {
@@ -780,7 +780,7 @@
         "code": "HSBH1006",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Health Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -794,7 +794,7 @@
         "code": "HSBH1008",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Determinants and Interventions",
         "requirements": [],
         "semester": "Semester 1",
@@ -808,7 +808,7 @@
         "code": "PSYC1001",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1001",
         "requirements": [],
         "semester": "Semester 1",
@@ -823,7 +823,7 @@
         "code": "PSYC1002",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1002",
         "requirements": [],
         "semester": "Semester 1",
@@ -838,7 +838,7 @@
         "code": "HSBH1009",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Care Resources and Systems",
         "requirements": [],
         "semester": "Semester 2",
@@ -906,7 +906,7 @@
         "code": "HSBH2007",
         "course": "Bachelor of Health Sciences - Movement Science major",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research Methods in Health",
         "requirements": [
             {
@@ -1035,7 +1035,7 @@
         "code": "BIOL1003",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Biology",
         "requirements": [
             {
@@ -1059,7 +1059,7 @@
         "code": "HSBH1006",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Health Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -1073,7 +1073,7 @@
         "code": "HSBH1008",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Determinants and Interventions",
         "requirements": [],
         "semester": "Semester 1",
@@ -1087,7 +1087,7 @@
         "code": "PSYC1001",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1001",
         "requirements": [],
         "semester": "Semester 1",
@@ -1102,7 +1102,7 @@
         "code": "PSYC1002",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology 1002",
         "requirements": [],
         "semester": "Semester 1",
@@ -1117,7 +1117,7 @@
         "code": "HSBH1009",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Care Resources and Systems",
         "requirements": [],
         "semester": "Semester 2",
@@ -1131,7 +1131,7 @@
         "code": "HSBH2007",
         "course": "Bachelor of Health Science / Master of Nursing - BUHSCNUR2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research Methods in Health",
         "requirements": [
             {
@@ -1508,7 +1508,7 @@
         "code": "BACH1161",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Behavioural Health Sciences",
         "requirements": [
             {
@@ -1527,7 +1527,7 @@
         "code": "BIOS1155",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Structure, Function and Disease A",
         "requirements": [
             {
@@ -1546,7 +1546,7 @@
         "code": "BIOS1167",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Cell Biology",
         "requirements": [
             {
@@ -1565,7 +1565,7 @@
         "code": "MRTY1031",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Medical Radiation Physics",
         "requirements": [
             {
@@ -1588,7 +1588,7 @@
         "code": "BIOS1158",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Structure, Function and Disease B",
         "requirements": [
             {
@@ -1607,7 +1607,7 @@
         "code": "MRTY1036",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Physics and Radiation Biology",
         "requirements": [],
         "semester": "Semester 2",
@@ -1621,7 +1621,7 @@
         "code": "MRTY1037",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Imaging Technology 1",
         "requirements": [],
         "semester": "Semester 2",
@@ -1635,7 +1635,7 @@
         "code": "MRTY1038",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Work Integrated Learning",
         "requirements": [],
         "semester": "Semester 2",
@@ -1649,7 +1649,7 @@
         "code": "MRTY2101",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Science 1",
         "requirements": [
             {
@@ -1668,7 +1668,7 @@
         "code": "MRTY2102",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Evaluation 1",
         "requirements": [
             {
@@ -1691,7 +1691,7 @@
         "code": "MRTY2103",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Image Optimisation and Processing",
         "requirements": [
             {
@@ -1710,7 +1710,7 @@
         "code": "MRTY2104",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiography Work Integrated Learning 1",
         "requirements": [
             {
@@ -1733,7 +1733,7 @@
         "code": "MRTY2105",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Science 2",
         "requirements": [
             {
@@ -1752,7 +1752,7 @@
         "code": "MRTY2106",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Evaluation 2",
         "requirements": [
             {
@@ -1775,7 +1775,7 @@
         "code": "MRTY2107",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Imaging Technology 2",
         "requirements": [],
         "semester": "Semester 2",
@@ -1789,7 +1789,7 @@
         "code": "MRTY2108",
         "course": "Bachelor of Applied Science (Diagnostic Radiography) - BPASDRAD1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiography Work Integrated Learning 2",
         "requirements": [
             {
@@ -1808,7 +1808,7 @@
         "code": "BACH1161",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Behavioural Health Sciences",
         "requirements": [
             {
@@ -1827,7 +1827,7 @@
         "code": "BIOS1167",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Cell Biology",
         "requirements": [
             {
@@ -1846,7 +1846,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -1866,7 +1866,7 @@
         "code": "EXSS1032",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fundamentals of Exercise Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -1880,7 +1880,7 @@
         "code": "BIOS1169",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy B",
         "requirements": [
             {
@@ -1904,7 +1904,7 @@
         "code": "BIOS1170",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Body Systems: Structure and Function",
         "requirements": [
             {
@@ -1924,7 +1924,7 @@
         "code": "EXSS1029",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Muscle Mechanics and Training",
         "requirements": [],
         "semester": "Semester 2",
@@ -1938,7 +1938,7 @@
         "code": "EXSS1018",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanics of Human Movement",
         "requirements": [
             {
@@ -1977,7 +1977,7 @@
         "code": "EXSS2018",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanical Analysis of Movement",
         "requirements": [
             {
@@ -1996,7 +1996,7 @@
         "code": "EXSS2028",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology and Biochemistry",
         "requirements": [
             {
@@ -2034,7 +2034,7 @@
         "code": "EXSS2021",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Nutrition, Health and Performance",
         "requirements": [
             {
@@ -2053,7 +2053,7 @@
         "code": "EXSS2022",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology-Training Adaptations",
         "requirements": [
             {
@@ -2072,7 +2072,7 @@
         "code": "EXSS2026",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Growth, Development and Ageing",
         "requirements": [],
         "semester": "Semester 2",
@@ -2125,7 +2125,7 @@
         "code": "EXSS3024",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise, Health and Disease",
         "requirements": [
             {
@@ -2144,7 +2144,7 @@
         "code": "EXSS3049",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Sport and Exercise Psychology",
         "requirements": [
             {
@@ -2163,7 +2163,7 @@
         "code": "EXSS3045",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice",
         "requirements": [
             {
@@ -2183,7 +2183,7 @@
         "code": "BIOS3065",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Anatomical Analysis of Exercise",
         "requirements": [
             {
@@ -2202,7 +2202,7 @@
         "code": "EXSS3027",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise and Rehabilitation",
         "requirements": [
             {
@@ -2225,7 +2225,7 @@
         "code": "EXSS3040",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiological Testing and Training",
         "requirements": [
             {
@@ -2244,7 +2244,7 @@
         "code": "EXSS3041",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Management, Marketing and the Law",
         "requirements": [],
         "semester": "Semester 2",
@@ -2258,7 +2258,7 @@
         "code": "EXSS3051",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Projects in Exercise and Sport Science",
         "requirements": [
             {
@@ -2281,7 +2281,7 @@
         "code": "HSBH3012",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "FHS Abroad",
         "requirements": [
             {
@@ -2301,7 +2301,7 @@
         "code": "EXSS3037",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Pharmacology and Immunology",
         "requirements": [
             {
@@ -2320,7 +2320,7 @@
         "code": "EXSS3044",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanics of Sports Techniques",
         "requirements": [
             {
@@ -2339,7 +2339,7 @@
         "code": "BHSC4005",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis A",
         "requirements": [
             {
@@ -2363,7 +2363,7 @@
         "code": "BHSC4006",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASESSC2000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis B",
         "requirements": [
             {
@@ -2391,7 +2391,7 @@
         "code": "CHEM1001",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fundamentals of Chemistry 1A",
         "requirements": [
             {
@@ -2414,7 +2414,7 @@
         "code": "CHEM1101",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Chemistry 1A",
         "requirements": [
             {
@@ -2439,7 +2439,7 @@
         "code": "BACH1161",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Behavioural Health Sciences",
         "requirements": [
             {
@@ -2458,7 +2458,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -2478,7 +2478,7 @@
         "code": "EXSS1032",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fundamentals of Exercise Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -2492,7 +2492,7 @@
         "code": "CHEM1002",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fundamentals of Chemistry 1B",
         "requirements": [
             {
@@ -2515,7 +2515,7 @@
         "code": "CHEM1102",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Chemistry 1B",
         "requirements": [
             {
@@ -2540,7 +2540,7 @@
         "code": "BIOS1170",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Body Systems: Structure and Function",
         "requirements": [
             {
@@ -2560,7 +2560,7 @@
         "code": "EXSS1029",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Muscle Mechanics and Training",
         "requirements": [],
         "semester": "Semester 2",
@@ -2574,7 +2574,7 @@
         "code": "EXSS1018",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanics of Human Movement",
         "requirements": [
             {
@@ -2637,7 +2637,7 @@
         "code": "EXSS2018",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanical Analysis of Movement",
         "requirements": [
             {
@@ -2656,7 +2656,7 @@
         "code": "EXSS2028",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology and Biochemistry",
         "requirements": [
             {
@@ -2679,7 +2679,7 @@
         "code": "EXSS2021",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Nutrition, Health and Performance",
         "requirements": [
             {
@@ -2698,7 +2698,7 @@
         "code": "EXSS2022",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology-Training Adaptations",
         "requirements": [
             {
@@ -2790,7 +2790,7 @@
         "code": "EXSS3024",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise, Health and Disease",
         "requirements": [
             {
@@ -2809,7 +2809,7 @@
         "code": "EXSS3049",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Sport and Exercise Psychology",
         "requirements": [
             {
@@ -2889,7 +2889,7 @@
         "code": "EXSS3045",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice",
         "requirements": [
             {
@@ -3108,7 +3108,7 @@
         "code": "BHSC4005",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis A",
         "requirements": [
             {
@@ -3132,7 +3132,7 @@
         "code": "BHSC4006",
         "course": "Bachelor of Applied Science (Exercise and Sport Science) - BPASENUD1000 / Master of Nutrition and Dietetics-MANUTDIE1000",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis B",
         "requirements": [
             {
@@ -3344,7 +3344,7 @@
         "code": "BACH1161",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Behavioural Health Sciences",
         "requirements": [
             {
@@ -3363,7 +3363,7 @@
         "code": "BIOS1167",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Cell Biology",
         "requirements": [
             {
@@ -3382,7 +3382,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -3402,7 +3402,7 @@
         "code": "EXSS1032",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Fundamentals of Exercise Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -3416,7 +3416,7 @@
         "code": "BIOS1169",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy B",
         "requirements": [
             {
@@ -3440,7 +3440,7 @@
         "code": "BIOS1170",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Body Systems: Structure and Function",
         "requirements": [
             {
@@ -3460,7 +3460,7 @@
         "code": "EXSS1029",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Muscle Mechanics and Training",
         "requirements": [],
         "semester": "Semester 2",
@@ -3474,7 +3474,7 @@
         "code": "EXSS1018",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanics of Human Movement",
         "requirements": [
             {
@@ -3513,7 +3513,7 @@
         "code": "EXSS2018",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Biomechanical Analysis of Movement",
         "requirements": [
             {
@@ -3532,7 +3532,7 @@
         "code": "EXSS2028",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology and Biochemistry",
         "requirements": [
             {
@@ -3555,7 +3555,7 @@
         "code": "EXSS2029",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Practice in Clinical Exercise Physiology",
         "requirements": [],
         "semester": "Semester 1",
@@ -3569,7 +3569,7 @@
         "code": "EXSS2021",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Nutrition, Health and Performance",
         "requirements": [
             {
@@ -3588,7 +3588,7 @@
         "code": "EXSS2022",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology-Training Adaptations",
         "requirements": [
             {
@@ -3607,7 +3607,7 @@
         "code": "EXSS2026",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Growth, Development and Ageing",
         "requirements": [],
         "semester": "Semester 2",
@@ -3660,7 +3660,7 @@
         "code": "EXSS3024",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise, Health and Disease",
         "requirements": [
             {
@@ -3679,7 +3679,7 @@
         "code": "EXSS3049",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Sport and Exercise Psychology",
         "requirements": [
             {
@@ -3698,7 +3698,7 @@
         "code": "EXSS3052",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Practicum with Low Risk Clients",
         "requirements": [
             {
@@ -3718,7 +3718,7 @@
         "code": "EXSS3027",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise and Rehabilitation",
         "requirements": [
             {
@@ -3741,7 +3741,7 @@
         "code": "EXSS3037",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Pharmacology and Immunology",
         "requirements": [
             {
@@ -3760,7 +3760,7 @@
         "code": "EXSS3050",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Across the Lifespan",
         "requirements": [
             {
@@ -3779,7 +3779,7 @@
         "code": "EXSS4007",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Placement 1",
         "requirements": [
             {
@@ -3808,7 +3808,7 @@
         "code": "EXSS4010",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Case Studies 1 Clinical Exercise Science",
         "requirements": [
             {
@@ -3831,7 +3831,7 @@
         "code": "EXSS4011",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Placement 2",
         "requirements": [
             {
@@ -3859,7 +3859,7 @@
         "code": "EXSS4012",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Placement 3",
         "requirements": [
             {
@@ -3887,7 +3887,7 @@
         "code": "EXSS4013",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Placement 4",
         "requirements": [
             {
@@ -3911,7 +3911,7 @@
         "code": "EXSS4014",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Case Studies 2 Clinical Exercise Science",
         "requirements": [
             {
@@ -3934,7 +3934,7 @@
         "code": "BIOS3065",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Anatomical Analysis of Exercise",
         "requirements": [
             {
@@ -3953,7 +3953,7 @@
         "code": "EXSS3040",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiological Testing and Training",
         "requirements": [
             {
@@ -3972,7 +3972,7 @@
         "code": "EXSS3041",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Management, Marketing and the Law",
         "requirements": [],
         "semester": "Year 3 Semester 2",
@@ -3986,7 +3986,7 @@
         "code": "EXSS3051",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Projects in Exercise and Sport Science",
         "requirements": [
             {
@@ -4009,7 +4009,7 @@
         "code": "HSBH3012",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "FHS Abroad",
         "requirements": [
             {
@@ -4043,7 +4043,7 @@
         "code": "HSBH3014",
         "course": "Bachelor of Applied Science (Exercise Physiology) - BPASEXPH1000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Workplace Injury Prevention/Management",
         "requirements": [
             {
@@ -4066,7 +4066,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -4086,7 +4086,7 @@
         "code": "HSBH1003",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health, Behaviour and Society",
         "requirements": [
             {
@@ -4105,7 +4105,7 @@
         "code": "OCCP1096",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Understanding Occupation-People-Context",
         "requirements": [],
         "semester": "Semester 1",
@@ -4119,7 +4119,7 @@
         "code": "OCCP1097",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Analysing Occupations and Performance",
         "requirements": [],
         "semester": "Semester 1",
@@ -4133,7 +4133,7 @@
         "code": "OCCP1098",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Teaching Occupations and Performance",
         "requirements": [],
         "semester": "Semester 2",
@@ -4147,7 +4147,7 @@
         "code": "OCCP1099",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Healthcare 1",
         "requirements": [],
         "semester": "Semester 2",
@@ -4161,7 +4161,7 @@
         "code": "OCCP1100",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice I",
         "requirements": [
             {
@@ -4202,7 +4202,7 @@
         "code": "OCCP2084",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Healthcare 2",
         "requirements": [],
         "semester": "Semester 1",
@@ -4216,7 +4216,7 @@
         "code": "OCCP2085",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Home & Family",
         "requirements": [],
         "semester": "Semester 1",
@@ -4230,7 +4230,7 @@
         "code": "OCCP2086",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice 2",
         "requirements": [
             {
@@ -4283,7 +4283,7 @@
         "code": "OCCP2087",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Community",
         "requirements": [],
         "semester": "Semester 2",
@@ -4297,7 +4297,7 @@
         "code": "OCCP2088",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Child & Family",
         "requirements": [],
         "semester": "Semester 2",
@@ -4311,7 +4311,7 @@
         "code": "OCCP3061",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IIIA",
         "requirements": [
             {
@@ -4341,7 +4341,7 @@
         "code": "OCCP3065",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IIIB",
         "requirements": [
             {
@@ -4371,7 +4371,7 @@
         "code": "OCCP3076",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Education",
         "requirements": [],
         "semester": "Semester 2",
@@ -4385,7 +4385,7 @@
         "code": "OCCP3077",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Productivity",
         "requirements": [],
         "semester": "Semester 2",
@@ -4399,7 +4399,7 @@
         "code": "OCCP3078",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Retirement",
         "requirements": [],
         "semester": "Semester 2",
@@ -4413,7 +4413,7 @@
         "code": "OCCP4087",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Promotion Through Occupation",
         "requirements": [],
         "semester": "Semester 1",
@@ -4427,7 +4427,7 @@
         "code": "OCCP4088",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 18,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IV",
         "requirements": [
             {
@@ -4457,7 +4457,7 @@
         "code": "OCCP4089",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Evaluation in Professional Practice",
         "requirements": [],
         "semester": "Semester 2",
@@ -4471,7 +4471,7 @@
         "code": "OCCP3061",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IIIA",
         "requirements": [
             {
@@ -4501,7 +4501,7 @@
         "code": "OCCP3065",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IIIB",
         "requirements": [
             {
@@ -4531,7 +4531,7 @@
         "code": "OCCP3076",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Education",
         "requirements": [],
         "semester": "Semester 2",
@@ -4545,7 +4545,7 @@
         "code": "OCCP3077",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Productivity",
         "requirements": [],
         "semester": "Semester 2",
@@ -4559,7 +4559,7 @@
         "code": "OCCP3078",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Occupational Performance: Retirement",
         "requirements": [],
         "semester": "Semester 2",
@@ -4573,7 +4573,7 @@
         "code": "BHSC3021",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours A: Research Design",
         "requirements": [
             {
@@ -4592,7 +4592,7 @@
         "code": "OCCP4087",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health Promotion Through Occupation",
         "requirements": [],
         "semester": "Semester 1",
@@ -4606,7 +4606,7 @@
         "code": "OCCP4090",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Research Seminar 2",
         "requirements": [],
         "semester": "Semester 1",
@@ -4620,7 +4620,7 @@
         "code": "OCCP4091",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis 1",
         "requirements": [],
         "semester": "Semester 1",
@@ -4634,7 +4634,7 @@
         "code": "OCCP4092",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Practice IVH",
         "requirements": [
             {
@@ -4664,7 +4664,7 @@
         "code": "OCCP4093",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis 2",
         "requirements": [
             {
@@ -4684,7 +4684,7 @@
         "code": "OCCP4079",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "OT in Learning & Co-ord Difficulties",
         "requirements": [
             {
@@ -4703,7 +4703,7 @@
         "code": "OCCP4080",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Upper Limb and Hand Rehabilitation",
         "requirements": [
             {
@@ -4730,7 +4730,7 @@
         "code": "OCCP4082",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "OT in Work Injury Prevention and Rehab",
         "requirements": [
             {
@@ -4749,7 +4749,7 @@
         "code": "OCCP4083",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Mental Health Interventions",
         "requirements": [
             {
@@ -4768,7 +4768,7 @@
         "code": "OCCP4085",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "People with Intellectual Disability",
         "requirements": [
             {
@@ -4787,7 +4787,7 @@
         "code": "OCCP4086",
         "course": "Bachelor of Applied Science (Occupational Therapy) - BPASOCTE5000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Elective - General",
         "requirements": [
             {
@@ -4810,7 +4810,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -4830,7 +4830,7 @@
         "code": "BIOS1170",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Body Systems: Structure and Function",
         "requirements": [
             {
@@ -4850,7 +4850,7 @@
         "code": "HSBH1003",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health, Behaviour and Society",
         "requirements": [
             {
@@ -4869,7 +4869,7 @@
         "code": "PHTY1023",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Physiotherapy Practice A",
         "requirements": [
             {
@@ -4888,7 +4888,7 @@
         "code": "BIOS1169",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy B",
         "requirements": [
             {
@@ -4912,7 +4912,7 @@
         "code": "BIOS1171",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neuroscience",
         "requirements": [
             {
@@ -4932,7 +4932,7 @@
         "code": "EXSS1029",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Muscle Mechanics and Training",
         "requirements": [],
         "semester": "Semester 2",
@@ -4946,7 +4946,7 @@
         "code": "PHTY1024",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Foundations of Physiotherapy Practice B",
         "requirements": [
             {
@@ -4969,7 +4969,7 @@
         "code": "EXSS2025",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Motor Control and Learning",
         "requirements": [
             {
@@ -4989,7 +4989,7 @@
         "code": "EXSS2027",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise Physiology for Clinicians",
         "requirements": [
             {
@@ -5012,7 +5012,7 @@
         "code": "PHTY2058",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Musculoskeletal Conditions A",
         "requirements": [
             {
@@ -5031,7 +5031,7 @@
         "code": "PHTY2060",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Preventative Health Care",
         "requirements": [
             {
@@ -5050,7 +5050,7 @@
         "code": "PHTY2059",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Musculoskeletal Conditions B",
         "requirements": [
             {
@@ -5069,7 +5069,7 @@
         "code": "PHTY2061",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Neurological Conditions A",
         "requirements": [
             {
@@ -5088,7 +5088,7 @@
         "code": "PHTY2062",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Respiratory and Cardiac Conditions A",
         "requirements": [
             {
@@ -5107,7 +5107,7 @@
         "code": "PHTY2063",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Practicum A",
         "requirements": [
             {
@@ -5141,7 +5141,7 @@
         "code": "PHTY3081",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Musculoskeletal Conditions C",
         "requirements": [
             {
@@ -5160,7 +5160,7 @@
         "code": "PHTY3082",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Neurological Conditions B",
         "requirements": [
             {
@@ -5179,7 +5179,7 @@
         "code": "PHTY3084",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Paediatric Physiotherapy",
         "requirements": [
             {
@@ -5198,7 +5198,7 @@
         "code": "PHTY3087",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Respiratory & Cardiac Conditions B",
         "requirements": [
             {
@@ -5217,7 +5217,7 @@
         "code": "PHTY3083",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Practicum B",
         "requirements": [
             {
@@ -5246,7 +5246,7 @@
         "code": "PHTY3085",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Practicum C",
         "requirements": [
             {
@@ -5274,7 +5274,7 @@
         "code": "PHTY3086",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy in Multisystem Problems",
         "requirements": [
             {
@@ -5293,7 +5293,7 @@
         "code": "PHTY4110",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Musculoskeletal Physiotherapy F",
         "requirements": [
             {
@@ -5316,7 +5316,7 @@
         "code": "PHTY4111",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neurological & Cardiopulmonary Physio B",
         "requirements": [
             {
@@ -5335,7 +5335,7 @@
         "code": "PHTY4112",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy Practicum D",
         "requirements": [
             {
@@ -5369,7 +5369,7 @@
         "code": "PHTY4113",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy Practicum E",
         "requirements": [
             {
@@ -5403,7 +5403,7 @@
         "code": "PHTY4114",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy in Childhood",
         "requirements": [
             {
@@ -5426,7 +5426,7 @@
         "code": "PHTY4115",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy in Preventative Healthcare",
         "requirements": [
             {
@@ -5449,7 +5449,7 @@
         "code": "PHTY4116",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Exercise as Physiotherapy in Health Care",
         "requirements": [
             {
@@ -5472,7 +5472,7 @@
         "code": "PHTY4117",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy Management in Health Care",
         "requirements": [
             {
@@ -5495,7 +5495,7 @@
         "code": "HSBH3007",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Cancer: Prevention through to Palliation",
         "requirements": [
             {
@@ -5519,7 +5519,7 @@
         "code": "HSBH3008",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Interdisciplinary eHealth",
         "requirements": [
             {
@@ -5542,7 +5542,7 @@
         "code": "HSBH3012",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "FHS Abroad",
         "requirements": [
             {
@@ -5562,7 +5562,7 @@
         "code": "PHTY3081",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Musculoskeletal Conditions C",
         "requirements": [
             {
@@ -5581,7 +5581,7 @@
         "code": "PHTY3082",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Neurological Conditions B",
         "requirements": [
             {
@@ -5600,7 +5600,7 @@
         "code": "PHTY3084",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Paediatric Physiotherapy",
         "requirements": [
             {
@@ -5619,7 +5619,7 @@
         "code": "PHTY3087",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "PT in Respiratory & Cardiac Conditions B",
         "requirements": [
             {
@@ -5638,7 +5638,7 @@
         "code": "BHSC3021",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours A: Research Design",
         "requirements": [
             {
@@ -5657,7 +5657,7 @@
         "code": "PHTY3083",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Practicum B",
         "requirements": [
             {
@@ -5686,7 +5686,7 @@
         "code": "PHTY3085",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Practicum C",
         "requirements": [
             {
@@ -5714,7 +5714,7 @@
         "code": "PHTY3086",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy in Multisystem Problems",
         "requirements": [
             {
@@ -5733,7 +5733,7 @@
         "code": "PHTY4114",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy in Childhood",
         "requirements": [
             {
@@ -5756,7 +5756,7 @@
         "code": "PHTY4117",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Physiotherapy Management in Health Care",
         "requirements": [
             {
@@ -5779,7 +5779,7 @@
         "code": "PHTY4118",
         "course": "Bachelor of Applied Science (Physiotherapy) - BPASPHYS6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Dissertation",
         "requirements": [],
         "semester": "Semester 2",
@@ -5793,7 +5793,7 @@
         "code": "BACH1165",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Psychology and Cognitive Factors (Intro)",
         "requirements": [],
         "semester": "Semester 1",
@@ -5807,7 +5807,7 @@
         "code": "BIOS1163",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Speech Science",
         "requirements": [],
         "semester": "Semester 1",
@@ -5821,7 +5821,7 @@
         "code": "CSCD1034",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Linguistics and Phonetics",
         "requirements": [
             {
@@ -5841,7 +5841,7 @@
         "code": "BIOS1167",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Cell Biology",
         "requirements": [
             {
@@ -5860,7 +5860,7 @@
         "code": "BIOS1165",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Hearing Science and Audiology",
         "requirements": [
             {
@@ -5879,7 +5879,7 @@
         "code": "BIOS1166",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neuroscience I: Communication Disorders",
         "requirements": [
             {
@@ -5898,7 +5898,7 @@
         "code": "CSCD1032",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Human Communication",
         "requirements": [
             {
@@ -5944,7 +5944,7 @@
         "code": "BIOS2062",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neuroscience II: Communication Disorders",
         "requirements": [
             {
@@ -5963,7 +5963,7 @@
         "code": "CSCD2057",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Child Language",
         "requirements": [
             {
@@ -5986,7 +5986,7 @@
         "code": "CSCD2068",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Speech Sound Disorders",
         "requirements": [
             {
@@ -6013,7 +6013,7 @@
         "code": "CSCD2064",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Practice 1: Clinical",
         "requirements": [
             {
@@ -6040,7 +6040,7 @@
         "code": "CSCD2065",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Practice 1: Community",
         "requirements": [
             {
@@ -6067,7 +6067,7 @@
         "code": "BACH2142",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Cognitive Neuropsychology",
         "requirements": [
             {
@@ -6086,7 +6086,7 @@
         "code": "CSCD2062",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Motor Speech and Dysphagia",
         "requirements": [
             {
@@ -6136,7 +6136,7 @@
         "code": "CSCD2066",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Practice 2: Clinical",
         "requirements": [
             {
@@ -6159,7 +6159,7 @@
         "code": "CSCD2067",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Practice 2: Community",
         "requirements": [
             {
@@ -6182,7 +6182,7 @@
         "code": "CSCD3074",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Specialist Studies",
         "requirements": [
             {
@@ -6205,7 +6205,7 @@
         "code": "CSCD3075",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neurogenic Language Disorders",
         "requirements": [
             {
@@ -6236,7 +6236,7 @@
         "code": "CSCD3076",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Lifelong Disability and AAC",
         "requirements": [
             {
@@ -6259,7 +6259,7 @@
         "code": "CSCD3077",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 1: Child",
         "requirements": [
             {
@@ -6296,7 +6296,7 @@
         "code": "CSCD3078",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 1: Adult",
         "requirements": [
             {
@@ -6347,7 +6347,7 @@
         "code": "CSCD3082",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Phonology, Language and Literacy",
         "requirements": [
             {
@@ -6370,7 +6370,7 @@
         "code": "CSCD3085",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Speech Pathology Research Methods",
         "requirements": [
             {
@@ -6389,7 +6389,7 @@
         "code": "CSCD3083",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 2: Adult & Community",
         "requirements": [
             {
@@ -6417,7 +6417,7 @@
         "code": "CSCD3084",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 2: Child & Community",
         "requirements": [
             {
@@ -6445,7 +6445,7 @@
         "code": "CSCD4051",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Evidence Based Practice for SP",
         "requirements": [
             {
@@ -6469,7 +6469,7 @@
         "code": "CSCD4052",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Issues",
         "requirements": [
             {
@@ -6493,7 +6493,7 @@
         "code": "CSCD4053",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice A: Clinical",
         "requirements": [
             {
@@ -6521,7 +6521,7 @@
         "code": "CSCD4054",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice A: Community",
         "requirements": [
             {
@@ -6549,7 +6549,7 @@
         "code": "CSCD4055",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice A: Paediatric",
         "requirements": [
             {
@@ -6583,7 +6583,7 @@
         "code": "CSCD4056",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice A: Adult",
         "requirements": [
             {
@@ -6617,7 +6617,7 @@
         "code": "CSCD4057",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice B: Paediatric",
         "requirements": [
             {
@@ -6649,7 +6649,7 @@
         "code": "CSCD4058",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice B: Adult",
         "requirements": [
             {
@@ -6681,7 +6681,7 @@
         "code": "CSCD4051",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Evidence Based Practice for SP",
         "requirements": [
             {
@@ -6705,7 +6705,7 @@
         "code": "CSCD4052",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Professional Issues",
         "requirements": [
             {
@@ -6729,7 +6729,7 @@
         "code": "CSCD4059",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice B: Clinical",
         "requirements": [
             {
@@ -6756,7 +6756,7 @@
         "code": "CSCD4060",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice B: Community",
         "requirements": [
             {
@@ -6783,7 +6783,7 @@
         "code": "BIOS1168",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Functional Musculoskeletal Anatomy A",
         "requirements": [
             {
@@ -6803,7 +6803,7 @@
         "code": "BIOS1170",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Body Systems: Structure and Function",
         "requirements": [
             {
@@ -6823,7 +6823,7 @@
         "code": "HSBH1003",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Health, Behaviour and Society",
         "requirements": [
             {
@@ -6856,7 +6856,7 @@
         "code": "WRIT1000",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Writing: Style and Method",
         "requirements": [],
         "semester": "",
@@ -6873,7 +6873,7 @@
         "code": "CSCD3074",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Specialist Studies",
         "requirements": [
             {
@@ -6896,7 +6896,7 @@
         "code": "CSCD3075",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Neurogenic Language Disorders",
         "requirements": [
             {
@@ -6927,7 +6927,7 @@
         "code": "CSCD3076",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Lifelong Disability and AAC",
         "requirements": [
             {
@@ -6950,7 +6950,7 @@
         "code": "CSCD3087",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 1H: Adult",
         "requirements": [
             {
@@ -6996,7 +6996,7 @@
         "code": "CSCD3082",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Phonology, Language and Literacy",
         "requirements": [
             {
@@ -7019,7 +7019,7 @@
         "code": "CSCD3089",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Intermediate Clinic 2H:Child & Community",
         "requirements": [
             {
@@ -7042,7 +7042,7 @@
         "code": "BHSC3021",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours A: Research Design",
         "requirements": [
             {
@@ -7061,7 +7061,7 @@
         "code": "CSCD4061",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Clinical",
         "requirements": [
             {
@@ -7088,7 +7088,7 @@
         "code": "CSCD4062",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Community",
         "requirements": [
             {
@@ -7115,7 +7115,7 @@
         "code": "CSCD4063",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Paediatric",
         "requirements": [
             {
@@ -7145,7 +7145,7 @@
         "code": "CSCD4064",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Adult",
         "requirements": [
             {
@@ -7175,7 +7175,7 @@
         "code": "CSCD4065",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research Project",
         "requirements": [
             {
@@ -7198,7 +7198,7 @@
         "code": "CSCD4063",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Paediatric",
         "requirements": [
             {
@@ -7228,7 +7228,7 @@
         "code": "CSCD4064",
         "course": "Bachelor of Applied Science (Speech Pathology) - BPASSPPA6000",
         "cp": 12,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Advanced Practice H: Adult",
         "requirements": [
             {
@@ -7258,7 +7258,7 @@
         "code": "MRTY3099",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Research in Medical Radiation Sciences",
         "requirements": [
             {
@@ -7277,7 +7277,7 @@
         "code": "MRTY3100",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Digital Imaging",
         "requirements": [
             {
@@ -7296,7 +7296,7 @@
         "code": "MRTY3105",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Practice 3",
         "requirements": [
             {
@@ -7315,7 +7315,7 @@
         "code": "MRTY3115",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Introductory Sonography",
         "requirements": [
             {
@@ -7338,7 +7338,7 @@
         "code": "MRTY3101",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Ethics, Law and Professional Practice",
         "requirements": [
             {
@@ -7357,7 +7357,7 @@
         "code": "MRTY3106",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Clinical Education 3DR",
         "requirements": [
             {
@@ -7387,7 +7387,7 @@
         "code": "MRTY3107",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Radiographic Physics 3",
         "requirements": [
             {
@@ -7406,7 +7406,7 @@
         "code": "MRTY3118",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 6,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "MR Theory Applications",
         "requirements": [],
         "semester": "Semester 2",
@@ -7420,7 +7420,7 @@
         "code": "BHSC4005",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis A",
         "requirements": [
             {
@@ -7444,7 +7444,7 @@
         "code": "BHSC4006",
         "course": "Bachelor of Applied Science (Medical Radiation Sciences) Diagnostic Radiography - unit of study tables",
         "cp": 24,
-        "inconsistent": false,
+        "inconsistent": "- matches",
         "name": "Honours Thesis B",
         "requirements": [
             {
