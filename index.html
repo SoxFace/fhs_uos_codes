@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FHS UoS Codes</title>
+  <link rel="stylesheet" type="text/css" href="css/jquery.dynatable.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.1/semantic.min.css">
+  <script src="js/jquery-1.7.2.min.js"></script>
+  <script src="js/jquery.dynatable.js"></script>  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.1/semantic.min.js"></script>
+</head>
+<body>
+
+  <h1>Dynatable</h1>
+
+  <div class="ui container">
+    <table id="my-final-table">
+      <thead>
+        <th>Band</th>
+        <th>Song</th>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+  $.getJSON("json-records.json", function(myRecords) {
+      $('#my-final-table').dynatable({
+        dataset: {
+          records: myRecords
+        }
+      })
+    });
+  </script>
+
+</body>
+</html>
