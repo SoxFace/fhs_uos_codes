@@ -19,6 +19,7 @@ th a:hover {
 .dynatable-search {
   float: right;
   margin-bottom: 10px;
+  border-radius: 20px;
 }
 
 .dynatable-pagination-links {
